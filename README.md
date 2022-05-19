@@ -1,4 +1,4 @@
-# metaapp
+# nftwallet app
 
 A new Flutter project.
 
